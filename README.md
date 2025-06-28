@@ -74,3 +74,4 @@ Currently, Soft Landing uses basic AI logic for cleaning and generating insights
 
 **Try it live:** [https://softlanding.app](https://softlanding.app)  
 **Questions?** Open an issue or reach out!
+
