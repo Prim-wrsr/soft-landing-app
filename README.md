@@ -61,7 +61,8 @@ Currently, Soft Landing uses basic AI logic for cleaning and generating insights
 **In the future, we plan to:**
 - Integrate advanced AI tools like ChatGPT/OpenAI for even deeper, more personalized analysis.
 - Allow users to customize and choose their own dashboard columns, so they can focus on the metrics that matter most to their business and get insights tailored to their specific needs.
-
+- Explore adding real subscription logic using tools like **RevenueCat**, **Stripe**, or **Supabase** role-based access.
+- Currently, subscription UI is included as a placeholder — backend functionality is planned in future versions.
 ---
 
 ## 🙏 Thanks
