@@ -46,7 +46,7 @@ Just upload your sales file (CSV or Excel) and get instant, clear dashboards, ac
 
 ## 📹 Demo Video
 
-▶️ [Watch the demo on YouTube](#) <!-- Replace # with your actual video link if available -->
+▶️ [Watch the demo on YouTube](https://youtu.be/EqP019RAO3U) <!-- Replace # with your actual video link if available -->
 
 ---
 
@@ -79,7 +79,9 @@ Just upload your sales file (CSV or Excel) and get instant, clear dashboards, ac
 Built with ❤️ for the World’s Largest Hackathon by Bolt.  
 Inspired by the real struggles of small business owners — and my own journey learning complex tools just to build one dashboard.
 
-Try it live: [softlanding.app](https://softlanding.app)  
-Questions? [Open an issue](#) or reach out!
+Try it live: [softlanding.app](https://softlanding.app)
+
+Questions or feedback?  
+Email: warisara.chanth@gmail.com
 
 ---
