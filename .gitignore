@@ -2,6 +2,7 @@
 .env
 .env.local
 .env.*.local
+!.env.example
 
 # Node dependencies
 node_modules/
@@ -9,6 +10,8 @@ node_modules/
 # Build outputs
 dist/
 dist-ssr/
+.next/
+out/
 
 # System files
 .DS_Store
@@ -19,15 +22,73 @@ logs/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
 
 # Editor configs
 .vscode/
 .idea/
 
-# Others
+# Miscellaneous IDE/project files
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# Coverage reports
+coverage/
+*.lcov
+.nyc_output
+
+# Cache and temporary files
+.cache/
+.parcel-cache/
+.temp/
+
+# Dependency cache
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Optional caches
+.npm/
+.eslintcache
+.stylelintcache
+
+# REPL
+.node_repl_history
+
+# Output from 'npm pack'
+*.tgz
+
+# Binaries and build
+build/
+build/Release
+
+# TypeScript
+*.tsbuildinfo
+
+# Config timestamps
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Firebase
+.firebase/
+
+# Docusaurus
+.docusaurus/
+
+# SvelteKit
+.svelte-kit/
+
+# Serverless
+.serverless/
+
+# Snowpack
+web_modules/
+
+# VSCode Extension Tests
+.vscode-test/
